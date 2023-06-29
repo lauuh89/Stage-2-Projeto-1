@@ -2,7 +2,7 @@
 
 Esse foi o primeiro projeto feito no Explorer - 3 da Rocketseat.
 Foi ensinado para fazer esse projeto:
-• A fazer o uso do id e da class;
+• A fazer o uso do id e da class; <br>
 • Usar o a href;
 • O _blank para abrir uma nova guia;
 • Criar uma linha no css usando o border;
